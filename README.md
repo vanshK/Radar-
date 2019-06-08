@@ -3,7 +3,7 @@ Adding ardiuno radar project
 This Project Scope was to create a Radar which could sense objects between the range of 2 - 400cm
 Used Ardiuno and Processing module to create the source code
 
-<h1>Project components required:</h1>
+<h1>Project components:</h1>
 
 1. Servo Motor (For rotation of the Sensor)
 1. Ultrasonic Sensor (To Detect the object)
