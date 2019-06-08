@@ -1,18 +1,18 @@
 # Radar using ultrasonic sensor
 
-Project components required:
+<h1>Project components required:
 
-Servo Motor (For rotation of the Sensor)
-Ultrasonic Sensor (To Detect the object)
-BreadBoard
-Jumper Wires
-Breadboard
+1.Servo Motor (For rotation of the Sensor)
+1.Ultrasonic Sensor (To Detect the object)
+1.BreadBoard
+1.Jumper Wires
+1.Breadboard
 
 
-IDE for compiling:
+<h1>IDE for compiling:
 Ardiuno and Processing IDE
 
-Circuit Protoype using circuit.io
+<h1>Circuit Protoype using circuit.io
 ![Radar Sensor]()
 
 
