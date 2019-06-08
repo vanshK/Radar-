@@ -1,5 +1,5 @@
 # Radar using ultrasonic sensor
-Adding Ardiuno Project 
+Adding ardiuno radar project 
 This Project Scope was to create a Radar which could sense objects between the range of 2 - 400cm
 Used Ardiuno and Processing module to create the source code
 
