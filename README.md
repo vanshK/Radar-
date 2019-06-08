@@ -13,6 +13,3 @@
 Ardiuno and Processing IDE
 
 <h1>Circuit Protoype using circuit.io</h1>
-<img src="Images/Circuit_prototype.PNG">
-
-
