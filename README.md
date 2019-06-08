@@ -13,6 +13,6 @@
 Ardiuno and Processing IDE
 
 <h1>Circuit Protoype using circuit.io</h1>
-![Radar Sensor](https://github.com/vanshK/Radar-/blob/master/Images/Circuit_prototype.PNG)
+![](/Images/Circuit_prototype.PNG)
 
 
